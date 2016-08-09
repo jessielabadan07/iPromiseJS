@@ -1,0 +1,5 @@
+(function(scope) {
+
+
+
+})(window.scope);
