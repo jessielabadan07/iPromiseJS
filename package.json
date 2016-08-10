@@ -1,0 +1,8 @@
+{
+	"name": "iPromiseJS",
+	"devDependencies": {
+		"jshint": "latest",
+		"mocha": "latest"
+	},
+	"scripts": {}
+}
