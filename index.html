@@ -23,7 +23,7 @@ try {
 
 	// If pass
 	function res() {
-		
+
 		var message = document.querySelector('#message');
 
 		message.innerText = "Wait for 5 seconds...";
@@ -36,18 +36,17 @@ try {
 			message.innerText += ' Complete: ' + img.complete;
 
 		}, 5000);
-	    
+
 	};
 
 	// If fail
 	function rej() {
-	    console.log('Reject: ' + arguments);
+		console.log('Reject: ' + arguments);
 	};
 
 } catch (err) {
 	console.log('Stack: ' + err.Message);
 }
-
 
 </script>
 
