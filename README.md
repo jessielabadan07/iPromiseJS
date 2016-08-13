@@ -1,11 +1,11 @@
 # iPromiseJS
 
-##To use the library:
+##To use our library:
 
 * Add script reference to your page.
 
   ```html
-  <!-- add reference to icache library -->
+  <!-- add reference to ipromise library -->
   <script src="ipromise.js"></script>
   ```
 
@@ -13,7 +13,7 @@
 
 ```javascript
 /*
-  Using our ICache library.
+  Using our IPromise library.
  */
 
 // Initialize
