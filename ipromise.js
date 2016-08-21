@@ -2,7 +2,6 @@
  * iPromise library
  *
  **/
-
 var iPromise = (function(res, rej) {
 
   return new Promise(function(resolve, reject) {
